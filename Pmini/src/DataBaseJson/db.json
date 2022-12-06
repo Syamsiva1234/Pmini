@@ -1,0 +1,102 @@
+{
+  "patients": [
+    {
+      "name": "praveen",
+      "username": "praveen",
+      "email": "praveen@gmail.com",
+      "phone": "9878674",
+      "id": 1
+    },
+    {
+      "name": "samba",
+      "username": "syam",
+      "email": "samba@gmail.com",
+      "phone": "887665",
+      "id": 6
+    },
+    {
+      "username": "sam1234",
+      "email": "samba@gmail.com",
+      "contact": "9808888772",
+      "id": "8f27918a"
+    },
+    {
+      "username": "cts2080311",
+      "email": "2080311@cognizant.com",
+      "contact": "8712328017",
+      "id": "642a7bc7"
+    },
+    {
+      "username": "sambasiva",
+      "email": "2080311@cognizant.com",
+      "contact": "8712328017",
+      "id": "82feaca6"
+    },
+    {
+      "username": "sam1234",
+      "email": "samba@gmail.com",
+      "contact": "9808888772",
+      "id": "10d8111a"
+    },
+    {
+      "username": "sam1234",
+      "email": "samba@gmail.com",
+      "contact": "9808888772",
+      "id": "f1cb7fa8"
+    },
+    {
+      "username": "bapi",
+      "email": "bapi@gmail.com",
+      "contact": "9089288281",
+      "id": "8ab43f69"
+    },
+    {
+      "username": "vsam",
+      "email": "vsam@gmail.com",
+      "contact": "9088765512",
+      "id": "5e2a1288"
+    },
+    {
+      "username": "abhi",
+      "email": "abhi@gmail.com",
+      "contact": "9087654323",
+      "id": "ebe3ce06"
+    },
+    {
+      "username": "chill",
+      "email": "chill@gmil.com",
+      "contact": "9898765437",
+      "id": "b0598c29"
+    },
+    {
+      "username": "samrat2",
+      "email": "samrat2@gmail.com",
+      "contact": "9087667623",
+      "id": "b0102543"
+    },
+    {
+      "username": "nan",
+      "email": "nan@gmail.com",
+      "contact": "9090883934",
+      "id": "58548e3d"
+    },
+    {
+      "username": "sam",
+      "email": "samb@gmail.com",
+      "contact": "9090883934",
+      "id": "c036f222"
+    },
+    {
+      "username": "van",
+      "email": "van@gmail.com",
+      "contact": "8976554321",
+      "id": "6ef4ebeb"
+    },
+    {
+      "username": "neha",
+      "email": "neha@gmail.com",
+      "contact": "8977565442",
+      "id": "bfe3e155"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+body {
+  background-image: url("../Assets/p5.png");
+  background-repeat: no-repeat;
+  min-height: 100vh;
+  min-width: 100vw;
+  overflow: hidden;
+  background-size: cover;
+}
+
+.labelEvent {
+  color: white;
+}
+
+.inputEvent {
+  background: transparent;
+  /* border: none; */
+}
+
+.borderThick {
+  border: 2px solid white;
+  border-radius: 0%;
+  color: white;
+  font-family: sans-serif;
+  text-transform: uppercase;
+  font-size: small;
+  font-weight: 600;
+}
+
+/* .borderThick:hover {
+  background-color: white;
+  color: rgb(35, 38, 207)
+} */
+#ton:hover,
+#ton2:hover {
+  background-color: white;
+  color: rgb(128, 128, 128)
+}
